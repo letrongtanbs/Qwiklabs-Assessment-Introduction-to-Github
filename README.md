@@ -11,4 +11,5 @@ Add a file to this repository
 Create snapshot/snapshots of the local repository
 Push the snapshots to the master branch
 
-I am editing the README file. Adding some more details about the project description.
+I am editing the README file.
+Adding some more details about the project description.
